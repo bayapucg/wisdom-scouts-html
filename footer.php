@@ -166,27 +166,6 @@
 
 	</footer>
 
-     <!------------------------>
-     
-        <div class="socialBtn">
-
-			<ul>
-<li class="dsp-dont"><a href="donate-2.html"><img src="images/donate2.png"></a></li>
-		    	<li><a href="https://www.facebook.com/Nice-Scouts-guides-2116347731789451/" target="_blank" style="background-color: rgb(20, 110, 186);"><i class="fa fa-facebook"></i></a></li>
-
-                 <li><a href="https://twitter.com/GuidesNice" target="_blank" style="background-color: rgb(29, 161, 242);"><i class="fa fa-twitter"></i></a></li>
-
-		        <li><a href="https://www.instagram.com/nsg.india/" target="_blank" style="background-color: rgb(153, 18, 180);"><i class="fa fa-instagram"></i></a></li>
-
-			    <li><a href="https://www.youtube.com/channel/UC2Huu8OS6Jy9fJGWa97T7xg" target="_blank" style="background-color: rgb(223, 44, 38);"><i class="fa fa-youtube"></i></a></li>
-                
-
-               
-
-		    </ul>
-
-		</div>
-        <!------------------------>
 	<script src="js/jquery.min.js"></script>
 
 	<!-- navigation JS -->

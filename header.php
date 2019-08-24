@@ -91,7 +91,7 @@
                              <li><a href="donate.html" class="btn-dnt"><i class="fa fa-heart"></i> Donate</a></li>
 
 
-<li><a href="login.html"><i class="fa fa-user"></i> Register</a></li>
+<li><a href="register.php"><i class="fa fa-user"></i> Register</a></li>
 
 							
 
