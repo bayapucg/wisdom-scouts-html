@@ -15,15 +15,14 @@
 
 						<div class="item" style="background-image:url(images/banner/slid-1.jpg);">
 
-							<a class="post-cat ts-orange-bg" href="#">NICE SCOUTS GUIDES</a>
 
 							<div class="overlay-post-content">
 
 								<div class="post-content">
 
-									<h2 class="post-title lg">
+									<h2 class="post-title lg text-center">
 
-										<a href="#">One Of The Biggest Leader of Scout Guide Movement of India Be Prepared For It..!!!</a>
+										<a href="#">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a>
 
 									</h2>
 
@@ -35,15 +34,14 @@
 
 						<div class="item" style="background-image:url(images/banner/slid-2.jpg);">
 
-							<a class="post-cat ts-orange-bg" href="#">NICE SCOUTS GUIDES</a>
 
 							<div class="overlay-post-content">
 
 								<div class="post-content">
 
-									<h2 class="post-title lg">
+									<h2 class="post-title lg text-center">
 
-										<a href="#">One Of The Biggest Leader of Scout Guide Movement of India Be Prepared For It..!!!</a>
+										<a href="#">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a>
 
 									</h2>
 
@@ -57,15 +55,14 @@
 
                         <div class="item" style="background-image:url(images/banner/slid-4.jpg);">
 
-							<a class="post-cat ts-orange-bg" href="#">NICE SCOUTS GUIDES</a>
 
 							<div class="overlay-post-content">
 
 								<div class="post-content">
 
-									<h2 class="post-title lg">
+									<h2 class="post-title lg text-center">
 
-										<a href="#">One Of The Biggest Leader of Scout Guide Movement of India Be Prepared For It..!!!</a>
+										<a href="#">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </a>
 
 									</h2>
 
@@ -77,81 +74,81 @@
 
 						</div>
 
-                        <div class="item" style="background-image:url(images/banner/slid-5.jpg)">
-
-							<a class="post-cat ts-orange-bg" href="#">NICE SCOUTS GUIDES</a>
-
-							<div class="overlay-post-content">
-
-								<div class="post-content">
-
-									<h2 class="post-title lg">
-
-										<a href="#">One Of The Biggest Leader of Scout Guide Movement of India Be Prepared For It..!!!</a>
-
-									</h2>
-
-									
-
-								</div>
-
-							</div>
-
-						</div>
-
-                        <div class="item" style="background-image:url(images/banner/slid-7.jpg)">
-
-							<a class="post-cat ts-orange-bg" href="#">NICE SCOUTS GUIDES</a>
-
-							<div class="overlay-post-content">
-
-								<div class="post-content">
-
-									<h2 class="post-title lg">
-
-										<a href="#">One Of The Biggest Leader of Scout Guide Movement of India Be Prepared For It..!!!</a>
-
-									</h2>
-								</div>
-							</div>
-						</div>
 					</div>
 				</div>
 
 			</div>
 		</div>
 	</section>
+	 <section>
+
+       <div class="container bg-inr">
+
+          <div class="row">
+			<div class="section-heading py-4">
+					<h2>Our Mission  <span>and </span> Vision</h2>
+					<span>
+						<img src="images/logo-head.png" alt="icon">
+					</span>
+					
+				</div>
+          <div class="col-md-12 ">
+
+<div class="abt-inr">
+
+	<div class="row">
+	<div class="col-md-8 mp-0">
+		<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+
+   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+
+   
+
+   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+
+ 
+
+   </div>
+   <div class="col-md-4"> 
+		<img src="images/mission-and-vison.png" alt="" class="img-fluid">
+   </div>
+   </div>
+
+   <div class="clearfix"></div>
+</div>
+</div> 
+</div>
+
+       </div>
+
+    </section>
+
 	<section class="block-wrapper">
 
 		<div class="container">
 
 			<div class="row">
 
-				<div class="col-lg-3 col-md-4">
+		
 
-					<div class="posts-ad">
-
-						<a href="services.html">
-
-							<img src="images/banner/sidebar-banner4.jpg" alt="">
-
-						</a>
-
-					</div>
-
+				<div class="col-lg-12 col-md-12">
+				
+					<div class="ts-grid-box most-populer-item">
+				<div class="section-heading py-4">
+					<h2>Most  <span>Popular</span></h2>
+					<span>
+						<img src="images/logo-head.png" alt="icon">
+					</span>
+					
 				</div>
 
-				<div class="col-lg-9 col-md-8">
-
-					<div class="ts-grid-box most-populer-item">
-
-						<h2 class="ts-title">Most Popular</h2>
+					
 
 						<div class="most-populers owl-carousel">
 
 							<div class="item">
 
-								<a class="post-cat ts-orange-bg" href="https://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell" target="_blank">Scout Founder</a>
+								
 
 								<div class="ts-post-thumb">
 
@@ -167,7 +164,7 @@
 
 							<div class="item">
 
-								<a class="post-cat ts-blue-light-bg" href="https://en.wikipedia.org/wiki/Agnes_Baden-Powell#The_Guide_movement" target="_blank">The First Girl Guide</a>
+								
 
 								<div class="ts-post-thumb">
 
@@ -183,7 +180,7 @@
 
 							<div class="item">
 
-								<a class="post-cat ts-pink-bg" href="https://en.wikipedia.org/wiki/Scouts%27_Day" target="_blank">World Scouts Day</a>
+								
 
 								<div class="ts-post-thumb">
 
@@ -216,8 +213,14 @@
 
 
 			<div class="ts-grid-box" style="padding-bottom:45px;">
-
-				<h2 class="ts-title">Our Gallery</h2>
+				<div class="section-heading py-4">
+					<h2>Our  <span>Gallery</span></h2>
+					<span>
+						<img src="images/logo-head.png" alt="icon">
+					</span>
+					
+				</div>
+				
 
 
 
@@ -227,7 +230,7 @@
 
 						<div class="ts-post-thumb">
 
-							<a href="photo-gallery.html">
+							<a href="#">
 
 								<img class="img-fluid sty-gly" src="images/gallery/im0.jpg" alt="">
 
@@ -243,7 +246,7 @@
 
 						<div class="ts-post-thumb">
 
-							<a href="photo-gallery.html">
+							<a href="#">
 
 								<img class="img-fluid sty-gly" src="images/gallery/im8.jpg" alt="">
 
@@ -257,7 +260,7 @@
 
 						<div class="ts-post-thumb">
 
-							<a href="photo-gallery.html">
+							<a href="#">
 
 								<img class="img-fluid sty-gly" src="images/gallery/image6.jpg" alt="">
 
@@ -273,7 +276,7 @@
 
 						<div class="ts-post-thumb">
 
-							<a href="photo-gallery.html">
+							<a href="#">
 
 								<img class="img-fluid sty-gly" src="images/gallery/image2.jpg" alt="">
 
@@ -289,8 +292,8 @@
 
 				<div class="clearfix"></div>
 
-                            <div class="col-md-12 text-center" style="margin-top:80px!important">
-                <a href="photo-gallery.html" class="bg-btnd">View All</a>
+                            <div class="col-md-12 text-right" style="margin-top:80px!important">
+                <a href="#" class="bg-btnd">Click here to Know more</a>
 
 
 
@@ -312,12 +315,17 @@
 
 			<div class="row">
 
-				<div class="col-lg-9">
+				<div class="col-lg-12">
 
 					<div class="ts-grid-box watch-post mb-30" style="padding-bottom:69px;">
-
-						<h2 class="ts-title">Video Gallery</h2>
-
+			<div class="section-heading py-4">
+					<h2>Video  <span>Gallery</span></h2>
+					<span>
+						<img src="images/logo-head.png" alt="icon">
+					</span>
+					
+				</div>
+						
 						<div class="row">
 
 							<div class="col-lg-7">
@@ -330,7 +338,7 @@
 
 <div class="item" style="background-image:url(images/banner/slid-1.jpg);">
 
-											<a class="post-cat ts-orange-bg" href="#">NICE SCOUTS GUIDES</a>
+										
 
 											<a href="https://www.youtube.com/watch?v=96I1BZDADxc" class="ts-video-btn">
 
@@ -344,7 +352,7 @@
 
 													<h3 class="post-title md">
 
-														<a href="#">NICE SCOUTS GUIDES</a>
+														<a href="#">wisdom scouts GUIDES</a>
 
 													</h3>
 
@@ -384,7 +392,7 @@
 
 
 
-											<a class="post-cat ts-purple-bg" href="#">NICE SCOUTS GUIDES</a>
+											<a class="post-cat ts-purple-bg" href="#">wisdom scouts GUIDES</a>
 
 										<a href="https://www.youtube.com/watch?v=r2O5rIc8X5E" class="ts-video-btn">
 
@@ -438,7 +446,7 @@
 
 										<div class="item" style="background-image:url(images/gallery/image4.jpg);">
 
-											<a class="post-cat ts-pink-bg" href="#">NICE SCOUTS GUIDES</a>
+											<a class="post-cat ts-pink-bg" href="#">wisdom scouts GUIDES</a>
 
 											<a href="https://www.youtube.com/watch?v=Vw1qsKeWhvM" class="ts-video-btn">
 
@@ -600,69 +608,7 @@ Be Prepared For It..!!!
 
 				</div>
 
-				<div class="col-lg-3">
-
-					<div class="right-sidebar">
-
-						<div class="widgets ts-grid-box widgets-populer-post">
-
-							<div class="topic-list">
-
-							About Nice Scouts Guides
-
-							</div>
-
-							<div class="ts-overlay-style">
-
-								<div class="item">
-
-									<div class="ts-post-thumb">
-
-										<a href="#">
-
-											<img class="img-fluid" src="images/sdfsd.gif" alt="">
-
-										</a>
-
-									</div>
-
-									
-
-                                    <div class="clearfix"></div>
-
-                                      <p>Nice Scouts Guides is a non-profit, non-political and secular organization. NSGI is a movement that aims to support young people in their physical, mental, social and within spiritual development, that they may play constructive roles in society,with a strong focus on the outdoors and survival skills.</p>
-
-											
-
-								</div>
-
-                                <div class="overlay-post-content">
-
-										<div class="post-content">
-
-                                      <h3 class="post-title">
-
-												<a href="about-us.html" class="rd-mr">Read More &raquo;</a>
-
-											</h3>
-
-                                            
-
-                                            
-
-											
-
-										</div>
-
-									</div>
-
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
+				
 
 			</div>
 
@@ -675,8 +621,14 @@ Be Prepared For It..!!!
 		<div class="container">
 
 			<div class="ts-grid-box ts-grid-box-heighlight" style="background-color:#fff!important; padding-bottom:150px;">
-
-                <h2 class="ts-title" style="color:#000;">International Organizations</h2>
+				<div class="section-heading py-4">
+					<h2>International  <span>Organizations</span></h2>
+					<span>
+						<img src="images/logo-head.png" alt="icon">
+					</span>
+					
+				</div>
+               
 
 				<div class="owl-carousel" id="more-news-slider">
 
@@ -686,7 +638,7 @@ Be Prepared For It..!!!
 
 								<a href="#">
 
-									<img class="clt-img" src="images/international-organizations/1.gif" alt="">
+									<img class="clt-img" src="images/international-organizations/ir1.png" alt="">
 
 								</a>
 

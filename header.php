@@ -10,6 +10,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<title>wisdom scouts</title>
+	<link rel="icon" href="images/logo-head.png" sizes="32x32" />
     <meta name="description" content=""/>
 	<meta name="keywords" content=""/>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -54,7 +55,7 @@
 
 					<div class="logo">
 
-						<a href="index.html">
+						<a href="#">
 
 							<img src="images/logo.png" alt="" class="logo-sty">
 
@@ -74,7 +75,7 @@
 
 						<div class="nav-header">
 
-							<a class="nav-brand mobile-logo visible-xs" href="index.html">
+							<a class="nav-brand mobile-logo visible-xs" href="#">
 
 								<img src="images/logo.png" alt="" class="logo-sty">
 
@@ -88,10 +89,10 @@
 
                             <ul class="align-to-right login-sty">
 
-                             <li><a href="donate.html" class="btn-dnt"><i class="fa fa-heart"></i> Donate</a></li>
+                             <li><a href="#" class="btn-dnt"><i class="fa fa-heart"></i> Donate</a></li>
 
 
-<li><a href="register.php"><i class="fa fa-user"></i> Register</a></li>
+<li><a href="#"><i class="fa fa-user"></i> Register</a></li>
 
 							
 
@@ -100,10 +101,10 @@
 <ul class="nav-menu">
 
 <li  class="active" >
-<a href="index.html">Home</a>
+<a href="#">Home</a>
 </li>
 
-<li ><a href="about-us.html">About Us</a></li>
+<li ><a href="#">About Us</a></li>
 
 <li >
 
@@ -113,13 +114,13 @@
 
 <li >
 
-<a href="current-vacancies.html">Current Vacancies</a>
+<a href="#">Current Vacancies</a>
 
 </li>
 
 <li>
 
-<a href="recruitment-system.html">Recruitment System</a>
+<a href="#">Recruitment System</a>
 
 </li>
 
@@ -127,7 +128,7 @@
 
 </li>
 
-<li ><a href="result.html">Result</a></li>
+<li ><a href="#">Result</a></li>
 
 <li >
 
@@ -137,13 +138,13 @@
 
 <li>
 
-<a href="images/pdf/RTIApplicationForm.pdf" target="_blank">Right to Information</a>
+<a href="#" target="_blank">Right to Information</a>
 
 </li>
 
 <li>
 
-<a href="images/pdf/job-application-form.pdf" target="_blank">Job Application Form</a>
+<a href="#" target="_blank">Job Application Form</a>
 
 </li>
 
@@ -153,19 +154,19 @@
 
 <li >
 
-<a href="gallery.html">Gallery</a>
+<a href="#">Gallery</a>
 
 <ul class="nav-dropdown">
 
 <li>
 
-<a href="photo-gallery.html">Photo Gallery</a>
+<a href="#">Photo Gallery</a>
 
 </li>
 
 <li>
 
-<a href="videos-gallery.html">Videos Gallery</a>
+<a href="#">Videos Gallery</a>
 
 </li>
 
@@ -177,25 +178,25 @@
 
 <li   >
 
-<a href="services.html">Services</a>
+<a href="#">Services</a>
 
 <ul class="nav-dropdown">
 
 <li>
 
-<a href="yoga.html">Yoga</a>
+<a href="#">Yoga</a>
 
 <ul class="nav-dropdown">
 
 <li>
 
-<a href="meditation.html">Meditation</a>
+<a href="#">Meditation</a>
 
 </li>
 
 <li>
 
-<a href="power-yoga.html">Power Yoga</a>
+<a href="#">Power Yoga</a>
 
 </li>
 
@@ -205,11 +206,11 @@
 
 </li>
 
-<li><a href="self-defense.html">Self Defense</a></li>
+<li><a href="#">Self Defense</a></li>
 
 <li>
 
-<a href="scout-guide.html">Scout Guide</a>
+<a href="#">Scout Guide</a>
 
 
 
@@ -219,7 +220,7 @@
 
 </li>
 
-<li ><a href="contact.html">Contact Us</a></li>
+<li ><a href="#">Contact Us</a></li>
 
 </ul>
 
